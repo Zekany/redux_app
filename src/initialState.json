@@ -1,0 +1,28 @@
+{
+  "allReadDays": [
+    {
+      "title": "The Marshmallow Test",
+      "date": "2017-5-15",
+      "finished": true,
+      "fiction": false
+    },
+    {
+      "title": "It",
+      "date": "2017-5-13",
+      "finished": false,
+      "fiction": true
+    },
+    {
+      "title": "Tropic of Cancer",
+      "date": "2017-5-23",
+      "finished": false,
+      "fiction": true
+    }
+  ],
+  "goal": 10,
+  "errors": [],
+  "bookTitles": {
+    "fetching": false,
+    "suggestions": []
+  }
+}
